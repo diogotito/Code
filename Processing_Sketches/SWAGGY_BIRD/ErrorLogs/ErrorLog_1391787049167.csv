@@ -1,0 +1,7 @@
+Sketch: C:\Users\DIOGOT~1\AppData\Local\Temp\untitled4134525341751825225sketches\sketch_140207a, 2014-02-07 15:30:49.166
+Comma in error msg is substituted with ^ symbol
+For separating arguments in error args | symbol is used
+ERROR TYPE, ERROR ARGS, ERROR MSG
+UnterminatedString,{},String literal is not properly closed by a double-quote
+ParsingErrorInsertToComplete,{;| BlockStatements},Syntax error^ insert ";" to complete BlockStatements
+ParsingErrorInsertToComplete,{AssignmentOperator Expression| Assignment},Syntax error^ insert "AssignmentOperator Expression" to complete Assignment

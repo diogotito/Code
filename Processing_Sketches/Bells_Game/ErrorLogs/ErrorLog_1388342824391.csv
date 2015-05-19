@@ -1,0 +1,16 @@
+Sketch: C:\Users\DiogoTito\Processing_Sketches\Bells_Game, 2013-12-29 18:47:04.39
+Comma in error msg is substituted with ^ symbol
+For separating arguments in error args | symbol is used
+ERROR TYPE, ERROR ARGS, ERROR MSG
+ParsingErrorInsertTokenAfter,{*| Expression},Syntax error on token "*"^ Expression expected after this token
+ParsingErrorDeleteToken,{,},Syntax error on token "^"^ delete this token
+ParsingError,{.| :},Syntax error on token "."^ : expected
+ParsingError,{.| ;},Syntax error on token "."^ ; expected
+ParsingErrorInsertTokenAfter,{stroke| =},Syntax error on token "stroke"^ = expected after this token
+ParsingErrorInsertToComplete,{)| Expression},Syntax error^ insert ")" to complete Expression
+ParsingErrorInsertToComplete,{)| MethodInvocation},Syntax error^ insert ")" to complete MethodInvocation
+ParsingErrorInsertToComplete,{;| Statement},Syntax error^ insert ";" to complete Statement
+ParsingErrorInsertToComplete,{AssignmentOperator Expression| Assignment},Syntax error^ insert "AssignmentOperator Expression" to complete Assignment
+UnresolvedVariable,{radii},radii cannot be resolved to a variable
+UnresolvedVariable,{radiusi},radiusi cannot be resolved to a variable
+UnresolvedVariable,{rai},rai cannot be resolved to a variable

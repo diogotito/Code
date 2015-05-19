@@ -1,0 +1,40 @@
+Sketch: C:\Users\DiogoTito\Processing_Sketches\Primes_Spiral, 2014-01-31 22:41:00.066
+Comma in error msg is substituted with ^ symbol
+For separating arguments in error args | symbol is used
+ERROR TYPE, ERROR ARGS, ERROR MSG
+UnresolvedVariable,{DOW},DOW cannot be resolved to a variable
+UnresolvedVariable,{LE},LE cannot be resolved to a variable
+UnresolvedVariable,{LEF},LEF cannot be resolved to a variable
+UnresolvedVariable,{RI},RI cannot be resolved to a variable
+UnresolvedVariable,{RIG},RIG cannot be resolved to a variable
+UnresolvedVariable,{RIGH},RIGH cannot be resolved to a variable
+UnresolvedVariable,{SIDE},SIDE cannot be resolved to a variable
+UnresolvedVariable,{SIFR},SIFR cannot be resolved to a variable
+ParsingErrorInsertTokenAfter,{)| AssignmentOperator},Syntax error on token ")"^ AssignmentOperator expected after this token
+ParsingErrorDeleteToken,{)},Syntax error on token ")"^ delete this token
+ParsingError,{)| {},Syntax error on token ")"^ { expected
+ParsingErrorDeleteToken,{++},Syntax error on token "++"^ delete this token
+ParsingErrorInsertTokenAfter,{,| Expression},Syntax error on token "^"^ Expression expected after this token
+ParsingErrorDeleteToken,{,},Syntax error on token "^"^ delete this token
+ParsingError,{.| ;},Syntax error on token "."^ ; expected
+ParsingErrorInsertTokenAfter,{==| Expression},Syntax error on token "=="^ Expression expected after this token
+ParsingErrorDeleteToken,{if},Syntax error on token "if"^ delete this token
+ParsingErrorDeleteToken,{int},Syntax error on token "int"^ delete this token
+ParsingErrorInsertTokenAfter,{||| Expression},Syntax error on token "||"^ Expression expected after this token
+ParsingErrorDeleteTokens,{},Syntax error on tokens^ delete these tokens
+ParsingErrorInsertToComplete,{) Statement| IfStatement},Syntax error^ insert ") Statement" to complete IfStatement
+ParsingErrorInsertToComplete,{)| Expression},Syntax error^ insert ")" to complete Expression
+ParsingErrorInsertToComplete,{)| MethodInvocation},Syntax error^ insert ")" to complete MethodInvocation
+ParsingErrorInsertToComplete,{;| BlockStatements},Syntax error^ insert ";" to complete BlockStatements
+ParsingErrorInsertToComplete,{;| ClassBodyDeclarations},Syntax error^ insert ";" to complete ClassBodyDeclarations
+ParsingErrorInsertToComplete,{;| Statement},Syntax error^ insert ";" to complete Statement
+ParsingErrorInsertToComplete,{AssignmentOperator Expression| Assignment},Syntax error^ insert "AssignmentOperator Expression" to complete Assignment
+ParsingErrorInsertToComplete,{AssignmentOperator Expression| Expression},Syntax error^ insert "AssignmentOperator Expression" to complete Expression
+ParsingErrorInsertToComplete,{}| Statement},Syntax error^ insert "}" to complete Statement
+UndefinedMethod,{Primes_Spiral.Primes_Spiral| g| int},The method g(int) is undefined for the type Primes_Spiral
+UndefinedMethod,{Primes_Spiral.Primes_Spiral| getNex| int},The method getNex(int) is undefined for the type Primes_Spiral
+InvalidOperator,{||| boolean, int},The operator || is undefined for the argument type(s) boolean^ int
+TypeMismatch,{processing.core.PVector| int},Type mismatch: cannot convert from PVector to int
+UnresolvedVariable,{s},s cannot be resolved to a variable
+UnresolvedVariable,{sideDir},sideDir cannot be resolved to a variable
+UnresolvedVariable,{sideDirectio},sideDirectio cannot be resolved to a variable

@@ -1,0 +1,14 @@
+Sketch: C:\Users\DiogoTito\Processing_Sketches\Primes_Spiral, 2014-01-31 22:20:43.802
+Comma in error msg is substituted with ^ symbol
+For separating arguments in error args | symbol is used
+ERROR TYPE, ERROR ARGS, ERROR MSG
+ParsingErrorInsertTokenAfter,{)| AssignmentOperator},Syntax error on token ")"^ AssignmentOperator expected after this token
+ParsingErrorInsertToComplete,{)| Expression},Syntax error^ insert ")" to complete Expression
+ParsingErrorInsertToComplete,{)| MethodInvocation},Syntax error^ insert ")" to complete MethodInvocation
+ParsingErrorInsertToComplete,{;| Statement},Syntax error^ insert ";" to complete Statement
+ParsingErrorInsertToComplete,{AssignmentOperator Expression| Assignment},Syntax error^ insert "AssignmentOperator Expression" to complete Assignment
+ParsingErrorInsertToComplete,{AssignmentOperator Expression| Expression},Syntax error^ insert "AssignmentOperator Expression" to complete Expression
+ParsingErrorInsertToComplete,{}| Statement},Syntax error^ insert "}" to complete Statement
+UndefinedMethod,{Primes_Spiral.Primes_Spiral| g| int},The method g(int) is undefined for the type Primes_Spiral
+UndefinedMethod,{Primes_Spiral.Primes_Spiral| getNex| int},The method getNex(int) is undefined for the type Primes_Spiral
+TypeMismatch,{processing.core.PVector| int},Type mismatch: cannot convert from PVector to int

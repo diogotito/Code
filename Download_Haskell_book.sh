@@ -1,0 +1,1 @@
+wget -r -np -l 1 -H -p -k -erobots=off http://learnyouahaskell.com/chapters

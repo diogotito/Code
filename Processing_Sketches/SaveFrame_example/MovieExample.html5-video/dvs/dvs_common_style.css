@@ -1,0 +1,234 @@
+/******************************************************/
+/*Main dvs player conteiner*/
+.dvsplayConteiner
+{	position:relative;
+	width:500px;
+	height:400px;
+	background-color:#FF0000; 
+	cursor:normal;
+}
+
+h1
+{
+	color:#FFFFFF;
+}
+
+/*default player style */
+.dvsplay
+{ 	position:absolute;
+	left:50px;
+	top:50px; 
+}
+
+/******************************************************/
+/* Buttons states syles*/
+
+/*unpressed state of buttons*/
+.PlayButton_unactiveState,
+.MuteButton_unactiveState,
+.AutoPlayButton_unactiveState
+{	
+    position:absolute;
+    width:100px;
+    height:30px;
+    left:50px;
+    top:350px;
+	background-color:#AA0000;
+	color:#FFFFFF;
+	border:2px solid #001050; 
+	cursor:pointer;
+}
+
+.MuteButton_unactiveState
+{
+    left:200px;
+}
+
+.AutoPlayButton_unactiveState
+{
+    left:350px;      
+}
+
+.PlayButton_activeState,
+.MuteButton_activeState,
+.AutoPlayButton_activeState
+{	
+    position:absolute;
+    width:100px;
+    height:30px;
+    left:50px;
+    top:350px;
+	background-color:#00FF00;
+	color:#FFFFFF;
+	border:2px solid #001050; 
+	cursor:pointer;
+}
+
+.MuteButton_activeState
+{
+    left:200px;   
+}
+
+.AutoPlayButton_activeState
+{
+    left:350px;      
+}
+
+
+/*slider styles*/
+
+.VolumeControl
+{
+    position:absolute;
+    left:80px;
+    top:10px;
+    height:15px;
+    width:300px;
+    background-color:#23FF44;
+}
+
+.volumepicMarker_upState
+{
+    position:absolute;
+    width:15px;
+    height:15px;
+    background-color:#FFFF44;
+}
+
+.volumepicMarker_upState:hover
+{
+    background-color:#000000;
+}
+
+.PositionControl
+{
+    position:absolute;
+    left:80px;
+    top:25px;
+    height:15px;
+    width:400px;
+    background-color:#23FF44;    
+}
+
+.pospicMarker_upState
+{
+    position:absolute;
+    width:15px;
+    height:15px;
+    background-color:#FFFF44;
+}
+
+.pospicMarker_upState:hover
+{
+    background-color:#000000;
+}
+
+.PositionDigitalDisplay,
+.VolumeDigitalDisplay
+{
+    position:absolute;
+    display:block;
+    border:1px solid #000000;
+    background-color:#DDDDDD;
+    color:#000000;
+    width:30px;
+    height:10px;
+    left:10px;
+    top:10px;
+}
+
+.VolumeDigitalDisplay
+{
+   left:50px; 
+}
+
+/* Button Classic Player */
+
+.ButtonClassicPlayer
+{
+	position:static;
+	
+	/*width:200px;
+	height:12px;*/
+	
+	float:left;
+	left:0px;
+	top:0px;
+	
+	z-index:10;
+	
+	border-top:1px solid #009cc4; 
+	border-left:1px solid #009cc4;
+	border-right:1px solid #0187ac ;
+	border-bottom:1px solid #0187ac ;
+	
+	background-color: #0187ac; 
+
+	
+	/* Safari 4-5, Chrome 1-9 */ 
+	background: -webkit-gradient(linear, 0% 0%, 0% 100%, from(#0187ac), to(#009cc4)); 
+	/* Safari 5.1, Chrome 10+ */ 
+	background: -webkit-linear-gradient(top, #0187ac, #009cc4); 
+	/* Firefox 3.6+ */ 
+	background: -moz-linear-gradient(top, #0187ac, #009cc4); 
+	/* IE 10 */ 
+	background: -ms-linear-gradient(top, #0187ac, #009cc4); 
+	/* Opera 11.10+ */ 
+	background: -o-linear-gradient(top, #0187ac, #009cc4);
+	
+	border-radius:5px;
+	
+	/*
+	border:1px solid #333333;
+	border-radius:5px;
+	box-shadow: 1px 1px 1px #333333;
+	*/
+	font-family:verdana;
+	color:#FFFFFF;
+	cursor:pointer;
+	font-size:12px;
+	/*text-shadow:#FFFFFF 1px 1px 0px;*/
+	
+	margin:5px;
+	padding:5px;
+	
+	padding-left:15px;
+	padding-right:15px;
+
+}
+
+.ButtonClassicPlayer:hover
+{
+	/*border-top:1px solid #0187ac; 
+	border-left:1px solid #0187ac;
+	border-right:1px solid #009cc4 ;
+	border-bottom:1px solid #009cc4 ;*/
+	
+	/* Safari 4-5, Chrome 1-9 */ 
+	background: -webkit-gradient(linear, 0% 0%, 0% 100%, from(#009cc4), to(#0187ac)); 
+	/* Safari 5.1, Chrome 10+ */ 
+	background: -webkit-linear-gradient(top, #009cc4, #0187ac); 
+	/* Firefox 3.6+ */ 
+	background: -moz-linear-gradient(top, #009cc4, #0187ac); 
+	/* IE 10 */ 
+	background: -ms-linear-gradient(top, #009cc4, #0187ac); 
+	/* Opera 11.10+ */ 
+	background: -o-linear-gradient(top, #009cc4, #0187ac);
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

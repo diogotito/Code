@@ -1,0 +1,21 @@
+Sketch: C:\Users\DiogoTito\Processing_Sketches\Bells_Game, 2013-12-29 17:45:30.489
+Comma in error msg is substituted with ^ symbol
+For separating arguments in error args | symbol is used
+ERROR TYPE, ERROR ARGS, ERROR MSG
+UnresolvedVariable,{MAXIMUM_BELL_SIZEs},MAXIMUM_BELL_SIZEs cannot be resolved to a variable
+UnresolvedVariable,{NU},NU cannot be resolved to a variable
+ParsingErrorDeleteToken,{)},Syntax error on token ")"^ delete this token
+ParsingError,{,| )},Syntax error on token "^"^ ) expected
+ParsingErrorInsertTokenAfter,{,| Expression},Syntax error on token "^"^ Expression expected after this token
+ParsingErrorInsertTokenAfter,{/| Expression},Syntax error on token "/"^ Expression expected after this token
+ParsingErrorInsertToComplete,{)| Expression},Syntax error^ insert ")" to complete Expression
+ParsingErrorInsertToComplete,{)| MethodInvocation},Syntax error^ insert ")" to complete MethodInvocation
+ParsingErrorInsertToComplete,{;| BlockStatements},Syntax error^ insert ";" to complete BlockStatements
+UndefinedMethod,{Bells_Game.Bells_Game.Bell| mapsq| float},The method mapsq(float) is undefined for the type Bells_Game.Bell
+ParameterMismatch,{processing.core.PApplet| sq| float| },The method sq(float) in the type PApplet is not applicable for the arguments ()
+ParameterMismatch,{processing.core.PApplet| sq| float| float, int, int, float, float},The method sq(float) in the type PApplet is not applicable for the arguments (float^ int^ int^ float^ float)
+UnresolvedVariable,{m},m cannot be resolved to a variable
+UnresolvedVariable,{nNUM_BALLS},nNUM_BALLS cannot be resolved to a variable
+UnresolvedVariable,{nor},nor cannot be resolved to a variable
+UnresolvedVariable,{norm},norm cannot be resolved to a variable
+UnresolvedVariable,{nu},nu cannot be resolved to a variable

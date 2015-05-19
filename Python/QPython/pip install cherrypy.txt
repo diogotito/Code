@@ -1,0 +1,21 @@
+python -c 'import site;exec(open("/storage/emulated/0/com.hipipal.qpyplus/scripts3/pip_console.py").read())' && sh /data/data/com.hipipal.qpy3/files/bin/end.sh && exit
+pipal.qpy3/files/bin/end.sh && exit                                    <
+Input pip commands, ie: pip install {module}
+-->pip install cherrypy
+Downloading/unpacking cherrypy
+  Real name of requirement cherrypy is cherrypy
+  Downloading CherryPy-3.6.0.tar.gz (432kB): 432kB downloaded
+  Running setup.py egg_info for package cherrypy
+
+Installing collected packages: cherrypy
+  Running setup.py install for cherrypy
+    warning: cherrypy_build_py: byte-compiling is disabled, skipping.
+
+    changing mode of build/scripts-3.2/cherryd from 660 to 775
+    warning: install_lib: byte-compiling is disabled, skipping.
+
+
+    changing mode of /data/data/com.hipipal.qpy3/files/bin/cherryd to 755
+Successfully installed cherrypy
+Cleaning up...
+-->

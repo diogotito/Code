@@ -1,0 +1,62 @@
+Sketch: C:\Users\DiogoTito\Processing_Sketches\Primes_Spiral, 2014-01-31 22:52:14.723
+Comma in error msg is substituted with ^ symbol
+For separating arguments in error args | symbol is used
+ERROR TYPE, ERROR ARGS, ERROR MSG
+NoMessageSendOnBaseType,{int| toString| },Cannot invoke toString() on the primitive type int
+UnresolvedVariable,{DOW},DOW cannot be resolved to a variable
+UnresolvedVariable,{IntegecurrentNumber},IntegecurrentNumber cannot be resolved to a variable
+UnresolvedVariable,{LE},LE cannot be resolved to a variable
+UnresolvedVariable,{LEF},LEF cannot be resolved to a variable
+UnresolvedVariable,{RI},RI cannot be resolved to a variable
+UnresolvedVariable,{RIG},RIG cannot be resolved to a variable
+UnresolvedVariable,{RIGH},RIGH cannot be resolved to a variable
+UnresolvedVariable,{SIDE},SIDE cannot be resolved to a variable
+UnresolvedVariable,{SIFR},SIFR cannot be resolved to a variable
+UnterminatedString,{},String literal is not properly closed by a double-quote
+ParsingErrorInsertTokenAfter,{)| AssignmentOperator},Syntax error on token ")"^ AssignmentOperator expected after this token
+ParsingErrorDeleteToken,{)},Syntax error on token ")"^ delete this token
+ParsingError,{)| {},Syntax error on token ")"^ { expected
+ParsingErrorDeleteToken,{++},Syntax error on token "++"^ delete this token
+ParsingErrorInsertTokenAfter,{,| Expression},Syntax error on token "^"^ Expression expected after this token
+ParsingErrorDeleteToken,{,},Syntax error on token "^"^ delete this token
+ParsingError,{.| ;},Syntax error on token "."^ ; expected
+ParsingErrorInsertTokenAfter,{=| VariableInitializer},Syntax error on token "="^ VariableInitializer expected after this token
+ParsingErrorInsertTokenAfter,{==| Expression},Syntax error on token "=="^ Expression expected after this token
+ParsingErrorDeleteToken,{currentNumber},Syntax error on token "currentNumber"^ delete this token
+ParsingErrorDeleteToken,{if},Syntax error on token "if"^ delete this token
+ParsingErrorDeleteToken,{int},Syntax error on token "int"^ delete this token
+ParsingErrorInsertTokenAfter,{||| Expression},Syntax error on token "||"^ Expression expected after this token
+ParsingErrorDeleteTokens,{},Syntax error on tokens^ delete these tokens
+ParsingErrorInsertToComplete,{) Statement| IfStatement},Syntax error^ insert ") Statement" to complete IfStatement
+ParsingErrorInsertToComplete,{)| Expression},Syntax error^ insert ")" to complete Expression
+ParsingErrorInsertToComplete,{)| MethodInvocation},Syntax error^ insert ")" to complete MethodInvocation
+ParsingErrorInsertToComplete,{;| BlockStatements},Syntax error^ insert ";" to complete BlockStatements
+ParsingErrorInsertToComplete,{;| ClassBodyDeclarations},Syntax error^ insert ";" to complete ClassBodyDeclarations
+ParsingErrorInsertToComplete,{;| Statement},Syntax error^ insert ";" to complete Statement
+ParsingErrorInsertToComplete,{AssignmentOperator Expression| Assignment},Syntax error^ insert "AssignmentOperator Expression" to complete Assignment
+ParsingErrorInsertToComplete,{AssignmentOperator Expression| Expression},Syntax error^ insert "AssignmentOperator Expression" to complete Expression
+ParsingErrorInsertToComplete,{}| Statement},Syntax error^ insert "}" to complete Statement
+UndefinedMethod,{Primes_Spiral.Primes_Spiral| S| int},The method S(int) is undefined for the type Primes_Spiral
+UndefinedMethod,{Primes_Spiral.Primes_Spiral| String| int},The method String(int) is undefined for the type Primes_Spiral
+UndefinedMethod,{Primes_Spiral.Primes_Spiral| g| int},The method g(int) is undefined for the type Primes_Spiral
+UndefinedMethod,{Primes_Spiral.Primes_Spiral| getNex| int},The method getNex(int) is undefined for the type Primes_Spiral
+UndefinedMethod,{Primes_Spiral.Primes_Spiral| sa| },The method sa() is undefined for the type Primes_Spiral
+ParameterMismatch,{processing.core.PApplet| save| java.lang.String| },The method save(String) in the type PApplet is not applicable for the arguments ()
+UndefinedMethod,{Primes_Spiral.Primes_Spiral| saveF| },The method saveF() is undefined for the type Primes_Spiral
+ParameterMismatch,{processing.core.PApplet| textWidth| char| },The method textWidth(char) in the type PApplet is not applicable for the arguments ()
+ParameterMismatch,{processing.core.PApplet| textWidth| char| int},The method textWidth(char) in the type PApplet is not applicable for the arguments (int)
+ParameterMismatch,{java.awt.Component| toString| | int},The method toString() in the type Component is not applicable for the arguments (int)
+InvalidOperator,{||| boolean, int},The operator || is undefined for the argument type(s) boolean^ int
+NoFieldOnBaseType,{int| currentNumber| to},The primitive type int of currentNumber does not have a field to
+NoFieldOnBaseType,{int| currentNumber| toS},The primitive type int of currentNumber does not have a field toS
+NoFieldOnBaseType,{int| currentNumber| toStrin},The primitive type int of currentNumber does not have a field toStrin
+TypeMismatch,{processing.core.PVector| int},Type mismatch: cannot convert from PVector to int
+UnresolvedVariable,{cu},cu cannot be resolved to a variable
+UnresolvedVariable,{current},current cannot be resolved to a variable
+UnresolvedVariable,{currentNu},currentNu cannot be resolved to a variable
+UnresolvedVariable,{s},s cannot be resolved to a variable
+UnresolvedVariable,{sideDir},sideDir cannot be resolved to a variable
+UnresolvedVariable,{sideDirectio},sideDirectio cannot be resolved to a variable
+UndefinedField,{tocurrentNumber},tocurrentNumber cannot be resolved or is not a field
+UnresolvedVariable,{tocurrentNumber},tocurrentNumber cannot be resolved to a variable
+UnresolvedVariable,{toscurrentNumber},toscurrentNumber cannot be resolved to a variable

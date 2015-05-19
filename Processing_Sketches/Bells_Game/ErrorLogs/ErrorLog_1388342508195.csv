@@ -1,0 +1,11 @@
+Sketch: C:\Users\DiogoTito\Processing_Sketches\Bells_Game, 2013-12-29 18:41:48.194
+Comma in error msg is substituted with ^ symbol
+For separating arguments in error args | symbol is used
+ERROR TYPE, ERROR ARGS, ERROR MSG
+ParsingErrorInsertTokenAfter,{*| Expression},Syntax error on token "*"^ Expression expected after this token
+ParsingErrorDeleteToken,{,},Syntax error on token "^"^ delete this token
+ParsingError,{.| ;},Syntax error on token "."^ ; expected
+ParsingErrorInsertTokenAfter,{stroke| =},Syntax error on token "stroke"^ = expected after this token
+ParsingErrorInsertToComplete,{)| Expression},Syntax error^ insert ")" to complete Expression
+ParsingErrorInsertToComplete,{)| MethodInvocation},Syntax error^ insert ")" to complete MethodInvocation
+ParsingErrorInsertToComplete,{;| Statement},Syntax error^ insert ";" to complete Statement

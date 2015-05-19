@@ -1,0 +1,74 @@
+Sketch: C:\Users\DiogoTito\Processing_Sketches\Bells_Game, 2013-12-29 17:58:10.188
+Comma in error msg is substituted with ^ symbol
+For separating arguments in error args | symbol is used
+ERROR TYPE, ERROR ARGS, ERROR MSG
+NonStaticFieldFromStaticInvocation,{mouseX},Cannot make a static reference to the non-static field mouseX
+StaticMethodRequested,{processing.core.PApplet| ellipse| float, float, float, float},Cannot make a static reference to the non-static method ellipse(float^ float^ float^ float) from the type PApplet
+StaticMethodRequested,{processing.core.PApplet| fill| float, float, float},Cannot make a static reference to the non-static method fill(float^ float^ float) from the type PApplet
+StaticMethodRequested,{processing.core.PApplet| stroke| int},Cannot make a static reference to the non-static method stroke(int) from the type PApplet
+UnresolvedVariable,{MAXIMUM_BELL_SIZEs},MAXIMUM_BELL_SIZEs cannot be resolved to a variable
+UnresolvedVariable,{MPLAYER_SIZE},MPLAYER_SIZE cannot be resolved to a variable
+UnresolvedVariable,{MatPLAYER_SIZE},MatPLAYER_SIZE cannot be resolved to a variable
+UnresolvedVariable,{MathPLAYER_SIZE},MathPLAYER_SIZE cannot be resolved to a variable
+UnresolvedVariable,{NU},NU cannot be resolved to a variable
+UnresolvedVariable,{PLA},PLA cannot be resolved to a variable
+UndefinedField,{PLAYER_SIZE},PLAYER_SIZE cannot be resolved or is not a field
+ParsingErrorDeleteToken,{)},Syntax error on token ")"^ delete this token
+ParsingErrorInsertTokenAfter,{)| {},Syntax error on token ")"^ { expected after this token
+ParsingError,{,| )},Syntax error on token "^"^ ) expected
+ParsingErrorInsertTokenAfter,{,| Expression},Syntax error on token "^"^ Expression expected after this token
+ParsingErrorDeleteToken,{,},Syntax error on token "^"^ delete this token
+ParsingError,{.| ;},Syntax error on token "."^ ; expected
+ParsingErrorInsertTokenAfter,{/| Expression},Syntax error on token "/"^ Expression expected after this token
+ParsingError,{=| ;},Syntax error on token "="^ ; expected
+ParsingErrorDeleteToken,{=},Syntax error on token "="^ delete this token
+ParsingErrorDeleteToken,{P},Syntax error on token "P"^ delete this token
+ParsingErrorDeleteToken,{PG},Syntax error on token "PG"^ delete this token
+ParsingErrorDeleteToken,{PGraoh},Syntax error on token "PGraoh"^ delete this token
+ParsingErrorDeleteToken,{PGrap},Syntax error on token "PGrap"^ delete this token
+ParsingErrorDeleteToken,{PGraphi},Syntax error on token "PGraphi"^ delete this token
+ParsingErrorDeleteToken,{PGraphics},Syntax error on token "PGraphics"^ delete this token
+ParsingErrorDeleteToken,{PLAYER_SIZE},Syntax error on token "PLAYER_SIZE"^ delete this token
+ParsingError,{fina| final},Syntax error on token "fina"^ final expected
+ParsingErrorInsertTokenAfter,{fl| VariableDeclaratorId},Syntax error on token "fl"^ VariableDeclaratorId expected after this token
+ParsingError,{fl| final},Syntax error on token "fl"^ final expected
+ParsingErrorInsertTokenAfter,{float| VariableDeclaratorId},Syntax error on token "float"^ VariableDeclaratorId expected after this token
+ParsingError,{float| final},Syntax error on token "float"^ final expected
+ParsingErrorInvalidToken,{s| Modifiers},Syntax error on token "s"^ invalid Modifiers
+ParsingErrorInvalidToken,{sta| Modifiers},Syntax error on token "sta"^ invalid Modifiers
+ParsingErrorDeleteToken,{}},Syntax error on token "}"^ delete this token
+ParsingErrorDeleteTokens,{},Syntax error on tokens^ delete these tokens
+ParsingErrorInsertToComplete,{)| Expression},Syntax error^ insert ")" to complete Expression
+ParsingErrorInsertToComplete,{)| MethodInvocation},Syntax error^ insert ")" to complete MethodInvocation
+ParsingErrorInsertToComplete,{;| BlockStatements},Syntax error^ insert ";" to complete BlockStatements
+ParsingErrorInsertToComplete,{;| FieldDeclaration},Syntax error^ insert ";" to complete FieldDeclaration
+ParsingErrorInsertToComplete,{;| ReturnStatement},Syntax error^ insert ";" to complete ReturnStatement
+ParsingErrorInsertToComplete,{;| Statement},Syntax error^ insert ";" to complete Statement
+ParsingErrorInsertToComplete,{AssignmentOperator Expression| Assignment},Syntax error^ insert "AssignmentOperator Expression" to complete Assignment
+ParsingErrorInsertToComplete,{AssignmentOperator Expression| Expression},Syntax error^ insert "AssignmentOperator Expression" to complete Expression
+ParsingErrorInsertToComplete,{}| ClassBody},Syntax error^ insert "}" to complete ClassBody
+FinalFieldAssignment,{Bells_Game.Bells_Game.Player| x},The final field Bells_Game.Player.x cannot be assigned
+ParameterMismatch,{processing.core.PApplet| createGraphics| int, int| float, float},The method createGraphics(int^ int) in the type PApplet is not applicable for the arguments (float^ float)
+ParameterMismatch,{Bells_Game.Bells_Game.Player| createPlayerImage| | float},The method createPlayerImage() in the type Bells_Game.Player is not applicable for the arguments (float)
+UndefinedMethod,{Bells_Game.Bells_Game.Player| createPlayerImage| },The method createPlayerImage() is undefined for the type Bells_Game.Player
+ParameterMismatch,{Bells_Game.Bells_Game.Player| createPlayerImage| int| float},The method createPlayerImage(int) in the type Bells_Game.Player is not applicable for the arguments (float)
+UndefinedMethod,{Bells_Game.Bells_Game.Bell| mapsq| float},The method mapsq(float) is undefined for the type Bells_Game.Bell
+UndefinedMethod,{Bells_Game.Bells_Game.Player| playerGraphics| },The method playerGraphics() is undefined for the type Bells_Game.Player
+ParameterMismatch,{processing.core.PApplet| sq| float| },The method sq(float) in the type PApplet is not applicable for the arguments ()
+ParameterMismatch,{processing.core.PApplet| sq| float| float, int, int, float, float},The method sq(float) in the type PApplet is not applicable for the arguments (float^ int^ int^ float^ float)
+ShouldReturnValue,{processing.core.PGraphics},This method must return a result of type PGraphics
+UnresolvedVariable,{cePLAYER_SIZE},cePLAYER_SIZE cannot be resolved to a variable
+UnresolvedVariable,{crea},crea cannot be resolved to a variable
+UnresolvedVariable,{create},create cannot be resolved to a variable
+UnresolvedVariable,{createGr},createGr cannot be resolved to a variable
+UnresolvedVariable,{createGra},createGra cannot be resolved to a variable
+UnresolvedVariable,{createGraphi},createGraphi cannot be resolved to a variable
+UndefinedField,{fPLAYER_SIZE},fPLAYER_SIZE cannot be resolved or is not a field
+UndefinedField,{flPLAYER_SIZE},flPLAYER_SIZE cannot be resolved or is not a field
+UnresolvedVariable,{m},m cannot be resolved to a variable
+UnresolvedVariable,{nNUM_BALLS},nNUM_BALLS cannot be resolved to a variable
+UnresolvedVariable,{nor},nor cannot be resolved to a variable
+UnresolvedVariable,{norm},norm cannot be resolved to a variable
+UnresolvedVariable,{nu},nu cannot be resolved to a variable
+UndefinedField,{playerGraphics},playerGraphics cannot be resolved or is not a field
+UnresolvedVariable,{ra},ra cannot be resolved to a variable

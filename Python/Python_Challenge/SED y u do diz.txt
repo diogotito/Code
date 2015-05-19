@@ -1,0 +1,7 @@
+Diogo@Samsung-Win81 ~/pychallenge
+$ echo "and the next nothing is 44827" | sed -r 's/.+([0-9]+)/\1/'
+7
+
+Diogo@Samsung-Win81 ~/pychallenge
+$ echo "and the next nothing is 44827" | sed -r 's/.+ ([0-9]+)/\1/'
+44827

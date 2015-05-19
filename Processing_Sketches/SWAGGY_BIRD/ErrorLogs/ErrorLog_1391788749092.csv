@@ -1,0 +1,27 @@
+Sketch: C:\Users\DiogoTito\Processing_Sketches\SWAGGY_BIRD, 2014-02-07 15:59:09.092
+Comma in error msg is substituted with ^ symbol
+For separating arguments in error args | symbol is used
+ERROR TYPE, ERROR ARGS, ERROR MSG
+ParsingError,{+| )},Syntax error on token "+"^ ) expected
+ParsingError,{+| ;},Syntax error on token "+"^ ; expected
+ParsingErrorInsertTokenAfter,{,| Expression},Syntax error on token "^"^ Expression expected after this token
+ParsingErrorDeleteToken,{,},Syntax error on token "^"^ delete this token
+ParsingErrorDeleteToken,{100},Syntax error on token "100"^ delete this token
+ParsingError,{:| ;},Syntax error on token ":"^ ; expected
+ParsingError,{<| )},Syntax error on token "<"^ ) expected
+ParsingError,{<=| )},Syntax error on token "<="^ ) expected
+ParsingErrorDeleteToken,{=},Syntax error on token "="^ delete this token
+ParsingError,{>| )},Syntax error on token ">"^ ) expected
+ParsingErrorInsertTokenAfter,{rectMode| =},Syntax error on token "rectMode"^ = expected after this token
+ParsingErrorInsertToComplete,{) Statement| BlockStatements},Syntax error^ insert ") Statement" to complete BlockStatements
+ParsingErrorInsertToComplete,{) Statement| IfStatement},Syntax error^ insert ") Statement" to complete IfStatement
+ParsingErrorInsertToComplete,{)| Expression},Syntax error^ insert ")" to complete Expression
+ParsingErrorInsertToComplete,{)| MethodInvocation},Syntax error^ insert ")" to complete MethodInvocation
+ParsingErrorInsertToComplete,{;| BlockStatements},Syntax error^ insert ";" to complete BlockStatements
+ParsingErrorInsertToComplete,{;| Statement},Syntax error^ insert ";" to complete Statement
+ParsingErrorInsertToComplete,{AssignmentOperator Expression| Assignment},Syntax error^ insert "AssignmentOperator Expression" to complete Assignment
+ParsingErrorInsertToComplete,{AssignmentOperator Expression| Expression},Syntax error^ insert "AssignmentOperator Expression" to complete Expression
+ParsingErrorInsertToComplete,{}| Statement},Syntax error^ insert "}" to complete Statement
+UnresolvedVariable,{hei100},hei100 cannot be resolved to a variable
+UnresolvedVariable,{height100},height100 cannot be resolved to a variable
+UndefinedType,{i},i cannot be resolved to a type

@@ -1,0 +1,20 @@
+Sketch: C:\Users\DIOGOT~1\AppData\Local\Temp\untitled4134525341751825225sketches\sketch_140207a, 2014-02-07 15:32:28.99
+Comma in error msg is substituted with ^ symbol
+For separating arguments in error args | symbol is used
+ERROR TYPE, ERROR ARGS, ERROR MSG
+UnterminatedString,{},String literal is not properly closed by a double-quote
+ParsingErrorInsertTokenAfter,{)| Statement},Syntax error on token ")"^ Statement expected after this token
+ParsingErrorDeleteToken,{)},Syntax error on token ")"^ delete this token
+ParsingErrorInsertTokenAfter,{)| {},Syntax error on token ")"^ { expected after this token
+ParsingErrorDeleteToken,{int},Syntax error on token "int"^ delete this token
+ParsingErrorDeleteToken,{void},Syntax error on token "void"^ delete this token
+ParsingErrorInsertToComplete,{) Statement| BlockStatements},Syntax error^ insert ") Statement" to complete BlockStatements
+ParsingErrorInsertToComplete,{)| Expression},Syntax error^ insert ")" to complete Expression
+ParsingErrorInsertToComplete,{;| BlockStatements},Syntax error^ insert ";" to complete BlockStatements
+ParsingErrorInsertToComplete,{;| LocalVariableDeclarationStatement},Syntax error^ insert ";" to complete LocalVariableDeclarationStatement
+ParsingErrorInsertToComplete,{;| Statement},Syntax error^ insert ";" to complete Statement
+ParsingErrorInsertToComplete,{AssignmentOperator Expression| Assignment},Syntax error^ insert "AssignmentOperator Expression" to complete Assignment
+ParsingErrorInsertToComplete,{AssignmentOperator Expression| Expression},Syntax error^ insert "AssignmentOperator Expression" to complete Expression
+ParsingErrorInsertToComplete,{}| ClassBody},Syntax error^ insert "}" to complete ClassBody
+InvalidOperator,{!| int},The operator ! is undefined for the argument type(s) int
+LocalVariableIsNeverUsed,{timeout},The value of the local variable timeout is not used

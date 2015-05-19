@@ -1,0 +1,33 @@
+Sketch: C:\Users\DiogoTito\Processing_Sketches\SWAGGY_BIRD, 2014-02-07 15:46:57.812
+Comma in error msg is substituted with ^ symbol
+For separating arguments in error args | symbol is used
+ERROR TYPE, ERROR ARGS, ERROR MSG
+UnterminatedString,{},String literal is not properly closed by a double-quote
+ParsingErrorInsertTokenAfter,{)| Statement},Syntax error on token ")"^ Statement expected after this token
+ParsingErrorDeleteToken,{)},Syntax error on token ")"^ delete this token
+ParsingErrorInsertTokenAfter,{)| {},Syntax error on token ")"^ { expected after this token
+ParsingError,{/| ;},Syntax error on token "/"^ ; expected
+ParsingError,{;| ,},Syntax error on token ";"^ ^ expected
+ParsingError,{=| ;},Syntax error on token "="^ ; expected
+ParsingErrorInsertTokenAfter,{==| Expression},Syntax error on token "=="^ Expression expected after this token
+ParsingErrorDeleteToken,{int},Syntax error on token "int"^ delete this token
+ParsingErrorInvalidToken,{v| Modifiers},Syntax error on token "v"^ invalid Modifiers
+ParsingErrorDeleteToken,{void},Syntax error on token "void"^ delete this token
+ParsingErrorDeleteTokens,{},Syntax error on tokens^ delete these tokens
+ParsingErrorMisplacedConstruct,{},Syntax error on token(s)^ misplaced construct(s)
+ParsingErrorInsertToComplete,{) Statement| BlockStatements},Syntax error^ insert ") Statement" to complete BlockStatements
+ParsingErrorInsertToComplete,{)| Expression},Syntax error^ insert ")" to complete Expression
+ParsingErrorInsertToComplete,{)| MethodInvocation},Syntax error^ insert ")" to complete MethodInvocation
+ParsingErrorInsertToComplete,{;| BlockStatements},Syntax error^ insert ";" to complete BlockStatements
+ParsingErrorInsertToComplete,{;| ClassBodyDeclarations},Syntax error^ insert ";" to complete ClassBodyDeclarations
+ParsingErrorInsertToComplete,{;| FieldDeclaration},Syntax error^ insert ";" to complete FieldDeclaration
+ParsingErrorInsertToComplete,{;| LocalVariableDeclarationStatement},Syntax error^ insert ";" to complete LocalVariableDeclarationStatement
+ParsingErrorInsertToComplete,{;| MethodDeclaration},Syntax error^ insert ";" to complete MethodDeclaration
+ParsingErrorInsertToComplete,{;| Statement},Syntax error^ insert ";" to complete Statement
+ParsingErrorInsertToComplete,{AssignmentOperator Expression| Assignment},Syntax error^ insert "AssignmentOperator Expression" to complete Assignment
+ParsingErrorInsertToComplete,{AssignmentOperator Expression| Expression},Syntax error^ insert "AssignmentOperator Expression" to complete Expression
+ParsingErrorInsertToComplete,{}| ClassBody},Syntax error^ insert "}" to complete ClassBody
+ParsingErrorInsertToComplete,{}| MethodBody},Syntax error^ insert "}" to complete MethodBody
+InvalidOperator,{!| int},The operator ! is undefined for the argument type(s) int
+LocalVariableIsNeverUsed,{timeout},The value of the local variable timeout is not used
+TypeMismatch,{int| boolean},Type mismatch: cannot convert from int to boolean

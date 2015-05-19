@@ -1,0 +1,94 @@
+Sketch: C:\Users\DiogoTito\Processing_Sketches\SWAGGY_BIRD, 2014-02-07 17:06:47.116
+Comma in error msg is substituted with ^ symbol
+For separating arguments in error args | symbol is used
+ERROR TYPE, ERROR ARGS, ERROR MSG
+UnresolvedVariable,{FLOOR_Y},FLOOR_Y cannot be resolved to a variable
+ParsingError,{)| {},Syntax error on token ")"^ { expected
+ParsingErrorInsertTokenAfter,{)| {},Syntax error on token ")"^ { expected after this token
+ParsingError,{+| )},Syntax error on token "+"^ ) expected
+ParsingError,{+| ;},Syntax error on token "+"^ ; expected
+ParsingError,{,| ;},Syntax error on token "^"^ ; expected
+ParsingErrorInsertTokenAfter,{,| Expression},Syntax error on token "^"^ Expression expected after this token
+ParsingErrorInsertTokenAfter,{,| FormalParameter},Syntax error on token "^"^ FormalParameter expected after this token
+ParsingErrorDeleteToken,{,},Syntax error on token "^"^ delete this token
+ParsingErrorInvalidToken,{,| (},Syntax error on token "^"^ invalid (
+ParsingErrorInvalidToken,{,| BlockStatements},Syntax error on token "^"^ invalid BlockStatements
+ParsingErrorInvalidToken,{-| AssignmentOperator},Syntax error on token "-"^ invalid AssignmentOperator
+ParsingError,{.| ;},Syntax error on token "."^ ; expected
+ParsingErrorInsertTokenAfter,{.| class},Syntax error on token "."^ class expected after this token
+ParsingErrorDeleteToken,{100},Syntax error on token "100"^ delete this token
+ParsingError,{:| ;},Syntax error on token ":"^ ; expected
+ParsingError,{<| )},Syntax error on token "<"^ ) expected
+ParsingError,{<=| )},Syntax error on token "<="^ ) expected
+ParsingErrorInsertTokenAfter,{=| VariableInitializer},Syntax error on token "="^ VariableInitializer expected after this token
+ParsingErrorDeleteToken,{=},Syntax error on token "="^ delete this token
+ParsingError,{>| )},Syntax error on token ">"^ ) expected
+ParsingErrorDeleteToken,{Bird},Syntax error on token "Bird"^ delete this token
+ParsingErrorDeleteToken,{Bu},Syntax error on token "Bu"^ delete this token
+ParsingErrorDeleteToken,{class},Syntax error on token "class"^ delete this token
+ParsingError,{const| @},Syntax error on token "const"^ @ expected
+ParsingErrorInsertTokenAfter,{fl| VariableDeclaratorId},Syntax error on token "fl"^ VariableDeclaratorId expected after this token
+ParsingErrorInsertTokenAfter,{floaminY| VariableDeclaratorId},Syntax error on token "floaminY"^ VariableDeclaratorId expected after this token
+ParsingErrorInsertTokenAfter,{float| VariableDeclaratorId},Syntax error on token "float"^ VariableDeclaratorId expected after this token
+ParsingErrorDeleteToken,{float},Syntax error on token "float"^ delete this token
+ParsingErrorDeleteToken,{i},Syntax error on token "i"^ delete this token
+ParsingErrorDeleteToken,{if},Syntax error on token "if"^ delete this token
+ParsingError,{int| ;},Syntax error on token "int"^ ; expected
+ParsingErrorDeleteToken,{int},Syntax error on token "int"^ delete this token
+ParsingErrorInsertTokenAfter,{limi| VariableDeclaratorId},Syntax error on token "limi"^ VariableDeclaratorId expected after this token
+ParsingErrorInsertTokenAfter,{limit| VariableDeclaratorId},Syntax error on token "limit"^ VariableDeclaratorId expected after this token
+ParsingErrorInsertTokenAfter,{min| VariableDeclaratorId},Syntax error on token "min"^ VariableDeclaratorId expected after this token
+ParsingErrorInsertTokenAfter,{minY| VariableDeclaratorId},Syntax error on token "minY"^ VariableDeclaratorId expected after this token
+ParsingErrorDeleteToken,{player},Syntax error on token "player"^ delete this token
+ParsingErrorInsertTokenAfter,{rectMode| =},Syntax error on token "rectMode"^ = expected after this token
+ParsingErrorInvalidToken,{statFLOOR_Y| Modifiers},Syntax error on token "statFLOOR_Y"^ invalid Modifiers
+ParsingErrorDeleteToken,{voi},Syntax error on token "voi"^ delete this token
+ParsingErrorDeleteToken,{void},Syntax error on token "void"^ delete this token
+ParsingErrorInvalidToken,{{| AssignmentOperator},Syntax error on token "{"^ invalid AssignmentOperator
+ParsingErrorDeleteTokens,{},Syntax error on tokens^ delete these tokens
+ParsingErrorInsertToComplete,{) Statement| BlockStatements},Syntax error^ insert ") Statement" to complete BlockStatements
+ParsingErrorInsertToComplete,{) Statement| IfStatement},Syntax error^ insert ") Statement" to complete IfStatement
+ParsingErrorInsertToComplete,{)| ClassInstanceCreationExpression},Syntax error^ insert ")" to complete ClassInstanceCreationExpression
+ParsingErrorInsertToComplete,{)| ConstructorDeclaration},Syntax error^ insert ")" to complete ConstructorDeclaration
+ParsingErrorInsertToComplete,{)| Expression},Syntax error^ insert ")" to complete Expression
+ParsingErrorInsertToComplete,{)| MethodInvocation},Syntax error^ insert ")" to complete MethodInvocation
+ParsingErrorInsertToComplete,{;| BlockStatements},Syntax error^ insert ";" to complete BlockStatements
+ParsingErrorInsertToComplete,{;| ClassBodyDeclarations},Syntax error^ insert ";" to complete ClassBodyDeclarations
+ParsingErrorInsertToComplete,{;| ConstructorDeclaration},Syntax error^ insert ";" to complete ConstructorDeclaration
+ParsingErrorInsertToComplete,{;| FieldDeclaration},Syntax error^ insert ";" to complete FieldDeclaration
+ParsingErrorInsertToComplete,{;| Statement},Syntax error^ insert ";" to complete Statement
+ParsingErrorInsertToComplete,{AssignmentOperator Expression| Assignment},Syntax error^ insert "AssignmentOperator Expression" to complete Assignment
+ParsingErrorInsertToComplete,{AssignmentOperator Expression| Expression},Syntax error^ insert "AssignmentOperator Expression" to complete Expression
+ParsingErrorInsertToComplete,{ClassBody| ClassDeclaration},Syntax error^ insert "ClassBody" to complete ClassDeclaration
+ParsingErrorInsertToComplete,{Identifier (| ConstructorHeaderName},Syntax error^ insert "Identifier (" to complete ConstructorHeaderName
+ParsingErrorInsertToComplete,{Type VariableDeclaratorId| FormalParameter},Syntax error^ insert "Type VariableDeclaratorId" to complete FormalParameter
+ParsingErrorInsertToComplete,{}| BlockStatements},Syntax error^ insert "}" to complete BlockStatements
+ParsingErrorInsertToComplete,{}| ClassBody},Syntax error^ insert "}" to complete ClassBody
+ParsingErrorInsertToComplete,{}| Statement},Syntax error^ insert "}" to complete Statement
+ParsingErrorUnexpectedEOF,{end of method},Syntax error^ unexpected end of method
+UndefinedConstructor,{SWAGGY_BIRD.SWAGGY_BIRD.Bird| int, int, float},The constructor SWAGGY_BIRD.Bird(int^ int^ float) is undefined
+UndefinedMethod,{SWAGGY_BIRD.SWAGGY_BIRD.Bird| background| int, int, int},The method background(int^ int^ int) is undefined for the type SWAGGY_BIRD.Bird
+TypeMismatch,{float| int},Type mismatch: cannot convert from float to int
+TypeMismatch,{int| processing.core.PGraphics},Type mismatch: cannot convert from int to PGraphics
+UndefinedField,{acceleration},acceleration cannot be resolved or is not a field
+UnresolvedVariable,{acceleration},acceleration cannot be resolved to a variable
+UndefinedType,{floa},floa cannot be resolved to a type
+UnresolvedVariable,{ga},ga cannot be resolved to a variable
+UnresolvedVariable,{gra},gra cannot be resolved to a variable
+UnresolvedVariable,{grav},grav cannot be resolved to a variable
+UnresolvedVariable,{h},h cannot be resolved to a variable
+UnresolvedVariable,{hei},hei cannot be resolved to a variable
+UnresolvedVariable,{hei100},hei100 cannot be resolved to a variable
+UnresolvedVariable,{heig},heig cannot be resolved to a variable
+UnresolvedVariable,{height100},height100 cannot be resolved to a variable
+UndefinedType,{i},i cannot be resolved to a type
+UndefinedField,{maxY},maxY cannot be resolved or is not a field
+UnresolvedVariable,{maxY},maxY cannot be resolved to a variable
+UndefinedField,{minY},minY cannot be resolved or is not a field
+UnresolvedVariable,{minY},minY cannot be resolved to a variable
+UnresolvedVariable,{playe},playe cannot be resolved to a variable
+UnresolvedVariable,{playerAY},playerAY cannot be resolved to a variable
+UnresolvedVariable,{playerVY},playerVY cannot be resolved to a variable
+UnresolvedVariable,{playerY},playerY cannot be resolved to a variable
+UnresolvedVariable,{velo},velo cannot be resolved to a variable
+UnresolvedVariable,{wid},wid cannot be resolved to a variable

@@ -1,0 +1,31 @@
+python /data/data/com.hipipal.qpyplus/files/bin/pip install "plyer" -i http://pip:qpython@pypi.qpython.com:11000/simple
+"plyer" -i http://pip:qpython@pypi.qpython.com:11000/simple            <
+Downloading/unpacking plyer
+  Downloading plyer-1.2.1.tar.gz
+  Running setup.py egg_info for package plyer
+
+Installing collected packages: plyer
+  Running setup.py install for plyer
+
+    installing library code to build/bdist.linux-armv7l/egg
+    warning: build_py: byte-compiling is disabled, skipping.
+
+    warning: install_lib: byte-compiling is disabled, skipping.
+
+    removing 'build/bdist.linux-armv7l/egg' (and everything under it)
+    Creating /data/data/com.hipipal.qpyplus/files/lib/python2.7/site-packages/site.py
+    warning: easy_install: byte-compiling is disabled, skipping.
+
+    Processing plyer-1.2.1-py2.7.egg
+    Extracting plyer-1.2.1-py2.7.egg to /data/data/com.hipipal.qpyplus/files/lib/python2.7/site-packages
+    warning: easy_install: byte-compiling is disabled, skipping.
+
+    Adding plyer 1.2.1 to easy-install.pth file
+
+    Installed /data/data/com.hipipal.qpyplus/files/lib/python2.7/site-packages/plyer-1.2.1-py2.7.egg
+    Processing dependencies for plyer==1.2.1
+    Finished processing dependencies for plyer==1.2.1
+  Could not find .egg-info directory in install record for plyer
+Successfully installed plyer
+Cleaning up...
+u0_a126@Aquaris_E45:/ $
