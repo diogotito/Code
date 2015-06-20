@@ -1,0 +1,24 @@
+000000000000
+000000000000
+001110000000
+001010011111
+111010010000
+000110011100
+000100000100
+000111100100
+000100100100
+000100100100
+000111111100
+000000000000
+000000000000
+
+
+var loader:URLLoader = new URLLoader();
+loader.addEventListener(Event.COMPLETE, onComplete);
+
+function onComplete(event:Event):void{
+	var levelArray:Array = event.target.data.replace(/\r/g).split(/\n/);
+	trace(levelArray.toString());
+}
+
+loader.load(new URLRequest("nivelTD1.txt"));

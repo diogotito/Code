@@ -1,0 +1,2 @@
+fpc snake.pas
+./snake
