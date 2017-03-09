@@ -1,0 +1,20 @@
+Map #1
+The treasure is located at (-3.464,7.536).
+The distance to the treasure is 8.294.
+
+Map #2
+The treasure is located at (14.142,14.142).
+The distance to the treasure is 20.000.
+
+Map #3
+The treasure is located at (-26.071,-26.071).
+The distance to the treasure is 36.870.
+
+Map #4
+The treasure is located at (-31.991,0.192).
+The distance to the treasure is 31.992.
+
+Map #5
+The treasure is located at (0.000,0.000).
+The distance to the treasure is 0.000.
+
